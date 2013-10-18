@@ -22,8 +22,8 @@ Copyright © Alberlan da Silva Barros. Todos os direitos reservados.
 
 Contato
 ======
-<ul>
-<li><a href="mailto:Brasil4droid@outlook.com">- Envie-nos um e-mail.</a></li>
-<li><a href="http://pinmymusic.blogspot.com">- Blog Pin My Music</a></li>
-<li><a href="fb.com/lanlan94">- Facebook do Desenvolvedor </a></li>
+<ul type="square">
+<li><b>- Envie-nos um e-mail:</b> Brasil4droid@outlook.com</li>
+<li><b>- Blog Pin My Music: </b><a href="http://pinmymusic.blogspot.com">Clique para acessar</a></li>
+<li><b>- Facebook do Desenvolvedor: </b><a href="fb.com/lanlan94">Clique para acessar</a></li>
 </ul>
