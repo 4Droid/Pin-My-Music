@@ -24,6 +24,6 @@ Contato
 ======
 <ul type="square">
 <li><b>- Envie-nos um e-mail:</b> Brasil4droid@outlook.com</li>
-<li><b>- Blog Pin My Music: </b><a href="http://pinmymusic.blogspot.com">Clique para acessar</a></li>
-<li><b>- Facebook do Desenvolvedor: </b><a href="fb.com/lanlan94">Clique para acessar</a></li>
+<li><b>- Blog Pin My Music: </b><a href="http://pinmymusic.blogspot.com" target="blank">Clique para acessar</a></li>
+<li><b>- Facebook do Desenvolvedor: </b><a href="http://fb.com/lanlan94" target="blank">Clique para acessar</a></li>
 </ul>
